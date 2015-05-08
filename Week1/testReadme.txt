@@ -1,4 +1,4 @@
 first line
 second line
 third line
-fourth line
+Creating a new branch is quick AND simple
